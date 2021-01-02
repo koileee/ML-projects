@@ -1,7 +1,8 @@
 # ML-projects
 
-1. linear regression
-2. logistic regression
-3. CNN
-4. RNN
-5. VAE
+1. Linear Regression
+2. Logistic Regression
+3. Gaussian Process
+4. CNN
+5. RNN/Seq2Seq
+6. VAE/GAN
