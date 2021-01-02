@@ -7,4 +7,4 @@
 5. RNN/Seq2Seq
 6. VAE/GAN
 
-A Kaggle Project that predicts ecommerce products based on image/text/product data
+A Kaggle Project that predicts ecommerce product category based on image/text/product data
